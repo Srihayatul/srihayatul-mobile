@@ -1,5 +1,5 @@
-import 'package:drawer_2201082012/home_page.dart';
-import 'package:drawer_2201082012/setting_page.dart';
+import 'package:drawer_2201082041/home_page.dart';
+import 'package:drawer_2201082041/setting_page.dart';
 import 'package:flutter/material.dart';
 
 class MyDrawer extends StatelessWidget {
