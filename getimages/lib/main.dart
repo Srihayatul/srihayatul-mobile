@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         backgroundColor: Color.fromARGB(255, 251, 228, 255),
         appBar: AppBar(
-          title: Text('ManusiaHiu'),
+          title: Text('Sri hayatul'),
           backgroundColor: Color.fromARGB(255, 156, 95, 255),
         ),
         body: Center(
