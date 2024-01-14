@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget
           margin: EdgeInsets.only(left: 20.0),
           padding: EdgeInsets.all(30.0),
           color: Colors.white,
-          child: Text('Manusiahiu'),
+          child: Text('Sri hayatul'),
          ),
        ),
      ),
