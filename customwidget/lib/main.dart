@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget
       backgroundColor: Colors.red,
       body: 
       SafeArea(
-        child: Mycontainer('Manusia Hiu'),
+        child: Mycontainer('Sri hayataul'),
       )
     )
     );
