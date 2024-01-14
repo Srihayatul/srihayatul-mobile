@@ -1,4 +1,4 @@
-import 'package:dialog_2201082012/page.dart';
+import 'package:dialog_2201082041/page.dart';
 import 'package:flutter/material.dart';
 
 void main() {
